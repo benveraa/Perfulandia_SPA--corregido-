@@ -16,7 +16,3 @@ public interface ClienteRepository extends JpaRepository<Cliente, Long> {
     
 }
 
-
-    git config --global user.name "benveraa"
-
-    git config --global user.email "ben.veraa@duocuc.cl"
